@@ -1,0 +1,351 @@
+#nadh dehydrogenase subunit 2,nadh2
+1-rna,16s
+12 ribosomal rna,12s
+12 rrna,12s
+12s,12s
+12s ribosmal rna,12s
+12s ribosoma rna,12s
+12s ribosomal rna,12s
+12s ribosomal rna subunit,12s
+12s ribosome rna,12s
+12s ribosoml rna,12s
+12s ribosonal rna,12s
+12s ribosormal rna,12s
+12s rrn,12s
+12s rrna,12s
+12s small subunit ribosomal rna,12s
+12s-rrna,12s
+12srrn,12s
+12srrna,12s
+16 s ribosomal rna,16s
+16s,16s
+16s bibosomal rna,16s
+16s large subunit ribosomal rna,16s
+16s ribosamal rna,16s
+16s ribosmal rna,16s
+16s ribosomal rna,16s
+16s ribosomal rna subunit,16s
+16s ribosome rna,16s
+16s ribosoml rna,16s
+16s ribosommal rna,16s
+16s ribososmal rna,16s
+16s ribososomal rna,16s
+16s risbosomal rna,16s
+16s rivbosomal rna,16s
+16s rrn,16s
+16s rrna,16s
+16s-rrna,16s
+16srrn,16s
+16srrna,16s
+18s ribosomal rna,16s
+adenosine triphosphatase subunit 6,atp6
+adenosine triphosphatase subunit 8,atp8
+adenosine triphosphate subunit 8,atp8
+apocytochrome b,cytb
+apt6,atp6
+apt8,atp8
+at6,atp6
+at8,atp8
+atp,atp6
+atp 6,atp6
+atp 8,atp8
+atp synthase 6,atp6
+atp synthase 8,atp8
+atp synthase f0 subunit 6,atp6
+atp synthase f0 subunit 8,atp8
+atp synthase fo subunit 6,atp6
+atp synthase fo subunit 8,atp8
+atp synthase subunit 6,atp6
+atp synthase subunit 8,atp8
+atp synthetase f0 subunit 6,atp6
+atp synthetase f0 subunit 8,atp8
+atp synthetase subunit 6,atp6
+atp6,atp6
+atp8,atp8
+atp9,atp8
+atpase 6,atp6
+atpase 8,atp8
+atpase subuint 6,atp6
+atpase subunit 6,atp6
+atpase subunit 8,atp8
+atpase synthase subunit 6,atp6
+atpase synthase subunit 8,atp8
+atpase6,atp6
+atpase8,atp8
+atpsynthase f0 subunit 6,atp6
+atpsynthase f0 subunit 8,atp8
+cb,cytb
+co 3,co3
+co i,co1
+co ii,co2
+co iii,co3
+co1,co1
+co2,co2
+co3,co3
+co3 subunit 3,co3
+cob,cytb
+coi,co1
+coii,co2
+coiii,co3
+co-i,co1
+co-ii,co2
+co-iii,co3
+cox 1,co1
+cox 2,co2
+cox i,co1
+cox ii,co2
+cox iii,co3
+cox-i,co1
+cox-ii,co2
+cox-iii,co3
+cox1,co1
+cox1a,co1
+cox1b,co1_wrongly_annotated_as_split
+cox1i,co2
+cox2,co2
+cox3,co3
+coxi,co1
+coxii,co2
+coxiii,co3
+ctyb,cytb
+cyb,cytb
+cyt b,cytb
+cyt-b,cytb
+cytb,cytb
+cytochrome b,cytb
+cytochrome c oxidase subunit 1,co1
+cytochrome c oxidase subunit 2,co2
+cytochrome c oxidase subunit 3,co3
+cytochrome c oxidase subunit i,co1
+cytochrome c oxidase subunit ii,co2
+cytochrome c oxidase subunit iii,co3
+cytochrome c oxydase subunit i,co1
+cytochrome c oxydase subunit ii,co2
+cytochrome c oxydase subunit iii,co3
+cytochrome oxidase 1,co1
+cytochrome oxidase 2,co2
+cytochrome oxidase 3,co3
+cytochrome oxidase subunit 1,co1
+cytochrome oxidase subunit 2,co2
+cytochrome oxidase subunit 3,co3
+cytochrome oxidase subunit i,co1
+cytochrome oxidase subunit ii,co2
+cytochrome oxidase subunit iii,co3
+dn1,nadh1
+dnab,dnab
+f orf,orfan
+f-orf,orfan
+f0-atp synthase subunit 6,atp6
+f0-atp synthase subunit 8,atp8
+fo-atpase subunit 6,atp6
+fo-atpase subunit 8,atp8
+forf,orfan
+heg,heg
+homing endonuclease,heg
+horf,orfan
+hypothetical protein,orfan
+l-rna,16s
+l-rrna,16s
+l6s ribosomal rna,16s
+large ribosomal rna,16s
+large ribosomal rna subunit,16s
+large ribosomal rna subunit rna,16s
+large subunit of ribosomal rna,16s
+large subunit ribosomal rna,16s
+large subunit ribosomal rna (lrrna),16s
+lrrna,16s
+lsu,16s
+lsu rrna,16s
+m-orf,orfan
+madh5,nadh5
+md5,nadh5
+morf,orfan
+msh1,muts
+mt-atp6,atp6
+mt-atp8,atp8
+mt-co1,co1
+mt-co2,co2
+mt-co3,co3
+mt-cytb,cytb
+mt-nd1,nadh1
+mt-nd2,nadh2
+mt-nd3,nadh3
+mt-nd4,nadh4
+mt-nd4l,nadh4l
+mt-nd5,nadh5
+mt-nd6,nadh6
+mtlsu rrna,16s
+mttb,mttb
+muts,muts
+muts-like protein,muts
+na4l,nadh4l
+nad-1,nadh1
+nad-2,nadh2
+nad-4,nadh4
+nad-4l,nadh4l
+nad-5,nadh5
+nad-6,nadh6
+nad1,nadh1
+nad1_0,nadh1
+nad1_1,nadh1
+nad2,nadh2
+nad3,nadh3
+nad3-0,nadh3
+nad4,nadh4
+nad4_0,nadh4
+nad4l,nadh4l
+nad4l_0,nadh4l
+nad5,nadh5
+nad5_0,nadh5
+nad6,nadh6
+nadh 2,nadh2
+nadh dehydogenase subunit 1,nadh1
+nadh dehydogenase subunit 2,nadh2
+nadh dehydogenase subunit 4,nadh4
+nadh dehydogenase subunit 4l,nadh4l
+nadh dehydogenase subunit 5,nadh5
+nadh dehydrogenase 1,nadh1
+nadh dehydrogenase 2,nadh2
+nadh dehydrogenase 3,nadh3
+nadh dehydrogenase 4,nadh4
+nadh dehydrogenase 4l,nadh4l
+nadh dehydrogenase 5,nadh5
+nadh dehydrogenase 6,nadh6
+nadh dehydrogenase subunit 1,nadh1
+nadh dehydrogenase subunit 2,nadh2
+nadh dehydrogenase subunit 3,nadh3
+nadh dehydrogenase subunit 4,nadh4
+nadh dehydrogenase subunit 4l,nadh4l
+nadh dehydrogenase subunit 5,nadh5
+nadh dehydrogenase subunit 6,nadh6
+nadh dehydrogenase subunit i,nadh1
+nadh dehydrogenase subunit ii,nadh2
+nadh dehydrogenase subunit iii,nadh3
+nadh dehydrogenase subunit iv,nadh4
+nadh dehydrogenase subunit iv l,nadh4l
+nadh dehydrogenase subunit v,nadh5
+nadh dehydrogenase subunit vi,nadh6
+nadh dehydrogenase subunit-6,nadh6
+nadh dehydrognase subunit ii,nadh2
+nadh hydrogenase subunit 5,nadh5
+nadh subunit 1,nadh1
+nadh subunit 2,nadh2
+nadh subunit 3,nadh3
+nadh subunit 4,nadh4
+nadh subunit 4l,nadh4l
+nadh subunit 5,nadh5
+nadh subunit 6,nadh6
+nd-1,nadh1
+nd-2,nadh2
+nd-3,nadh3
+nd-4,nadh4
+nd-4l,nadh4l
+nd-5,nadh5
+nd-6,nadh6
+nadh-1,nadh1
+nadh-2,nadh2
+nadh-3,nadh3
+nadh-4,nadh4
+nadh-4l,nadh4l
+nadh-5,nadh5
+nadh-6,nadh6
+nadh-dehydrogenase subunit 1,nadh1
+nadh-dehydrogenase subunit 2,nadh2
+nadh-dehydrogenase subunit 3,nadh3
+nadh-dehydrogenase subunit 4,nadh4
+nadh-dehydrogenase subunit 4l,nadh4l
+nadh-dehydrogenase subunit 5,nadh5
+nadh-dehydrogenase subunit 6,nadh6
+nadh-i,nadh1
+nadh1,nadh1
+nadh2,nadh2
+nadh3,nadh3
+nadh4,nadh4
+nadh4l,nadh4l
+nadh5,nadh5
+nadh6,nadh6
+nd1,nadh1
+nd1`,nadh1
+nd1ll,nadh1
+nd2,nadh2
+nd3,nadh3
+nd4,nadh4
+nd4l,nadh4l
+nd5,nadh5
+nd6,nadh6
+ndh,nadh3
+ndi,nadh1
+nnd5,nadh5
+orf,orfan
+orf 3,orfan
+orf1 protein,orfan
+orf100,orfan
+orf101,orfan
+orf105,orfan
+orf122,orfan
+orf126,orfan
+orf133,orfan
+orf139,orfan
+orf146,orfan
+orf150,orfan
+orf168a,orfan
+orf168b,orfan
+orf175,orfan
+orf2 protein,orfan
+orf3 protein,orfan
+orf314,orfan
+orf324,orfan
+orf345,orfan
+orf4 protein,orfan
+orf501,orfan
+orf520,orfan
+orf568,orfan
+orf677,orfan
+orf745,orfan
+orf820,orfan
+orf905,orfan
+orfa,orfan
+orfb,orfan
+orfc,orfan
+partials ribosomal rna,12s
+polb,dnab
+protein 1,orfan
+protein 2,orfan
+protein 3,orfan
+protein 4,orfan
+protein 41,orfan
+protein 5,orfan
+protein 6,orfan
+protein a61,orfan
+putative family b dna polymerases,dnab
+replication helicase subunit,dnab
+ribosomal rna large subunit,16s
+ribosomal rna small subunit,12s
+rnl,16s
+rnla,16s
+rnr1,12s
+rnr2,16s
+rns,12s
+rrn12,12s
+rrn16,16s
+rrna large subunit,16s
+rrna small subunit,12s
+rrna-12s,12s
+rrnl,16s
+rrnl #1,16s
+rrnl #2,16s
+rrns,12s
+rrs,12s
+s-rna,12s
+s-rrna,12s
+small ribosomal rna,12s
+small ribosomal rna subunit,12s
+small ribosomal rna subunit rna,12s
+small subnit ribosomal rna,12s
+small subunit of ribosomal rna,12s
+small subunit ribosomal rna,12s
+srrna,12s
+ssu,12s
+ssu rrna,12s
+truncated nadh dehydrogenase subunit 6,nadh6
+unknown,orfan
