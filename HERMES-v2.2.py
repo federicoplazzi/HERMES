@@ -372,8 +372,6 @@ for gb_record in SeqIO.parse(args.gb_file, "genbank"):
 			#for SU skew
 			h[(gb_record.id).split(".")[0]][1].append(F[i].strand)
 			#for URs
-			if gb_record.id == "NC_018373.1":
-				print F[i].location.parts
 			for x in F[i].location.parts:
 				for y in x:
 					if L[y]==1:
