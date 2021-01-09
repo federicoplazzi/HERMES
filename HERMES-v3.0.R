@@ -4,9 +4,10 @@
 # Several mitogenomic features are evaluated in a factor analysis framework; namely, in the current version, they are #
 # the %URs, the Amount of Mitochondrial Identical Gene Arrangements (AMIGA) index, the absolute value of the SU skew, #
 # the root-to-tip distance, the ML pairwise distance from a given outgroup, the %AT, the AT skew, the GC skew, the    #
-# number of (annotated) genes, the length of the mtDNA, and the CAI.                                                  #
+# number of (annotated) genes, the length of the mtDNA, the CAI, the topology, the UR AT content, and the AT median   #
+# length.                                                                                                             #
 #                                                                                                                     #
-# Copyright (C) 2020 Guglielmo Puccio, Federico Plazzi                                                                #
+# Copyright (C) 2021 Guglielmo Puccio, Federico Plazzi                                                                #
 #                                                                                                                     #
 # This program is free software: you can redistribute it and/or modify                                                #
 # it under the terms of the GNU General Public License as published by                                                #
