@@ -23,7 +23,9 @@
 #                                                                                                                     #
 #######################################################################################################################
 
-#HERMES version: 2.2
+#HERMES version: 3.0
+
+HERMES.version <- "3.0"
 
 #Load library psych for factor analysis.
 
@@ -182,14 +184,14 @@ HERMES.total.communality <- mean(as.numeric(HERMES.fa$communality))
 parameters <- c("KMO","TLI","SRMR","RMSEA",paste("RMSEA ",(1-alpha)*100,"% CI (lower bound)",sep=""),paste("RMSEA ",(1-alpha)*100,"% CI (upper bound)",sep=""),HERMES.communalities,"Total communality")
 values <- c(HERMES.KMO,HERMES.TLI,HERMES.SRMR,HERMES.RMSEA,HERMES.RMSEA.lower,HERMES.RMSEA.upper,as.numeric(HERMES.fa$communality),HERMES.total.communality)
 HERMES.parameters <- data.frame(parameters=parameters,values=values)
-write.table(HERMES.parameters,file="./Results/HERMES-v2.2_parameters.txt",quote=FALSE,sep="\t",row.names=FALSE,col.names=FALSE)
+write.table(HERMES.parameters,file=paste("./Results/HERMES-v",HERMES.version,"_parameters.txt",sep=""),quote=FALSE,sep="\t",row.names=FALSE,col.names=FALSE)
 HERMES.fa.scores.data.frame <- data.frame(Species=rownames(HERMES.file[,best.HERMES.combination]),HERMES=HERMES.fa.scores,Shade=HERMES.shades)
 HERMES.fa.scores.data.frame <- HERMES.fa.scores.data.frame[order(HERMES.fa.scores,decreasing=order.option),]
-write.table(HERMES.fa.scores.data.frame,file="./Results/HERMES-v2.2_scores.txt",quote=FALSE,sep="\t",row.names=FALSE)
+write.table(HERMES.fa.scores.data.frame,file=paste("./Results/HERMES-v",HERMES.version,"_scores.txt",sep=""),quote=FALSE,sep="\t",row.names=FALSE)
 
 #Plot HERMES!
 
-pdf(file="./Results/HERMES-v2.2_plot.pdf")
+pdf(file=paste("./Results/HERMES-v",HERMES.version,"_plot.pdf",sep=""))
 plot(HERMES.fa.scores.data.frame$HERMES,main="Hyper-Empirical Relative Mitochondrial Evolutionary Speed",xlab="",ylab="HERMES",col=colors()[HERMES.fa.scores.data.frame$Shade],bg=colors()[HERMES.fa.scores.data.frame$Shade],pch=21,xaxt="n")
 axis(side=1,at=c(1:dim(HERMES.fa.scores.data.frame)[1]),labels=HERMES.fa.scores.data.frame$Species,las=2)
 dev.off()
