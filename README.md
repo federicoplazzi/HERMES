@@ -1,6 +1,6 @@
 GLOBAL OVERVIEW
 
-HERMES version: 2.2
+HERMES version: 3.0
 
 The HERMES index is a method of quantifying molecular evolution of mitochondrial genomes
 in different species and clusters; this method was originally proposed in Plazzi et al.
@@ -13,7 +13,7 @@ Hyper-Empirical Relative Mitochondrial Evolutionary Speed (HERMES) index.
 
 The present Python script performs data collection and then calls a dedicated R script to
 complete the factor analysis. The mitogenomic features that are currently implemented in
-HERMES-v2.2.py are:
+HERMES-v3.0.py are:
 
 the percentage of Unassigned Regions (URs);
 
@@ -35,7 +35,13 @@ the number of (annotated) genes;
 
 the length of the molecule;
 
-the Codon Adaptation Index (CAI), as defined in Sharp and Li (1987) and Xia (2007).
+the Codon Adaptation Index (CAI), as defined in Sharp and Li (1987) and Xia (2007);
+
+the topology (either circular or linear);
+
+the UR AT content;
+
+the UR median length.
 
 For each possible combination of at least two of these variables, a factor analysis is carried
 out. Normalization and varimax rotation are used, factor scores are found using correlation
